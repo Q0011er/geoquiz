@@ -1,8 +1,13 @@
 <resources>
     <string name="app_name">GeoQuiz</string>
-    <string name="question_text">"Канберра столица Австралии?"</string>
     <string name="button_true">"ДА"</string>
     <string name="button_false">"НЕТ"</string>
+    <string name="button_next">"Далее"</string>
     <string name="toast_correct">"Правильно"</string>
     <string name="toast_incorrect">"Ошибка"</string>
+    <string name="question_1">"Канберра столица Австралии?"</string>
+    <string name="question_2">"Тихий океан больше Атлантического?"</string>
+    <string name="question_3">"Суэцкий канал соединяет Красное море и Индйский океан?"</string>
+    <string name="question_4">"Исток реки Нил находится в Египте?"</string>
+    <string name="question_5">"Амазонка самая длинная река в Америке?"</string>
 </resources>
